@@ -1,2 +1,2 @@
 # AWPi
-Automatic Plant Watering System with Raspberry Pi
+Just a 'A'utomatic plant 'W'atering system with raspberry 'Pi' !!!
